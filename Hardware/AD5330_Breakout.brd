@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
+<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.0001" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -123,7 +123,7 @@
 <wire x1="20.32" y1="0" x2="0" y2="0" width="0.254" layer="20"/>
 <text x="11.684" y="20.193" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270">AD5330 Breakout</text>
 <text x="6.8072" y="4.40944375" size="1.27" layer="21" font="vector" ratio="15" rot="SR0">AD5330</text>
-<text x="11.43" y="1.27" size="1.016" layer="16" font="vector" ratio="15" rot="MR0">v12</text>
+<text x="11.43" y="1.27" size="1.016" layer="16" font="vector" ratio="25" rot="MR0">v12</text>
 <text x="2.921" y="26.162" size="1.016" layer="21" font="vector" ratio="15">VOUT</text>
 <text x="2.921" y="23.622" size="1.016" layer="21" font="vector" ratio="15">GND</text>
 <text x="2.921" y="16.002" size="1.016" layer="21" font="vector" ratio="15">CS</text>
@@ -143,6 +143,27 @@
 <text x="17.399" y="6.858" size="1.016" layer="21" font="vector" ratio="15" rot="R180">DB2</text>
 <text x="17.399" y="4.318" size="1.016" layer="21" font="vector" ratio="15" rot="R180">DB1</text>
 <text x="17.399" y="1.778" size="1.016" layer="21" font="vector" ratio="15" rot="R180">DB0</text>
+<text x="6.4389" y="26.164540625" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">VOUT</text>
+<text x="2.921" y="23.622" size="1.016" layer="21" font="vector" ratio="15">GND</text>
+<text x="5.5245" y="23.639778125" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">GND</text>
+<text x="4.572" y="16.002" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">CS</text>
+<text x="4.6075625" y="13.462" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">WR</text>
+<text x="6.4897" y="10.904221875" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">LDAC</text>
+<text x="5.5092625" y="8.382" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">CLR</text>
+<text x="4.607559375" y="5.842" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">PD</text>
+<text x="5.5270375" y="3.302" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">BUF</text>
+<text x="6.13918125" y="0.746759375" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">GAIN</text>
+<text x="14.351" y="1.778" size="1.016" layer="22" font="vector" ratio="15" rot="MR180">DB0</text>
+<text x="14.351" y="4.318" size="1.016" layer="22" font="vector" ratio="15" rot="MR180">DB1</text>
+<text x="14.351" y="6.858" size="1.016" layer="22" font="vector" ratio="15" rot="MR180">DB2</text>
+<text x="14.351" y="9.398" size="1.016" layer="22" font="vector" ratio="15" rot="MR180">DB3</text>
+<text x="14.351" y="11.938" size="1.016" layer="22" font="vector" ratio="15" rot="MR180">DB4</text>
+<text x="14.351" y="14.478" size="1.016" layer="22" font="vector" ratio="15" rot="MR180">DB5</text>
+<text x="14.351" y="17.018" size="1.016" layer="22" font="vector" ratio="15" rot="MR180">DB6</text>
+<text x="14.351" y="19.558" size="1.016" layer="22" font="vector" ratio="15" rot="MR180">DB7</text>
+<text x="17.399" y="24.638" size="1.016" layer="21" font="vector" ratio="15" rot="R180">GND</text>
+<text x="14.371321875" y="24.6507" size="1.016" layer="22" font="vector" ratio="15" rot="MR180">GND</text>
+<text x="14.40941875" y="27.18561875" size="1.016" layer="22" font="vector" ratio="15" rot="MR180">VCC</text>
 </plain>
 <libraries>
 <library name="SparkFun">
