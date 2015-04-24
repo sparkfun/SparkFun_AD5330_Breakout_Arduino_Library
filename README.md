@@ -9,12 +9,23 @@ It runs from 2.5 to 5.5V.
 
 Repository Contents
 -------------------
-* **/Hardware** - All Eagle design files (.brd, .sch)
-* **/Libraries** - Arduino library and board examples
-* **/Production** - Test bed files and production panel files
+
+* **/examples** - Example sketches for the library (.ino). Run these from the Arduino IDE. 
+* **/extras** - Additional documentation for the user. These files are ignored by the IDE. 
+* **/src** - Source files for the library (.cpp, .h).
+* **keywords.txt** - Keywords from this library that will be highlighted in the Arduino IDE. 
+* **library.properties** - General library properties for the Arduino package manager. 
+
+Documentation
+--------------
+
+* **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
+* **[Product Repository](https://github.com/sparkfun/AD5330_Breakout)** - Main repository (including hardware files) for the AD5330 Breakout.
+* **[Tutorial](http://www.sparkfun.com/commerce/tutorial_info.php?tutorials_id=160)** - Basic tutorial for the AD5330 Breakout.
 
 Version History
 ---------------
+* [v1.2](https://github.com/sparkfun/AD5330_Breakout_Arduino_Library/tree/v_1.2) - Arduino library format
 * [v1.1](https://www.sparkfun.com/products/9719) 
 
 License Information
