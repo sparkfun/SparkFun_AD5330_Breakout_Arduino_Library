@@ -25,8 +25,8 @@ Documentation
 
 Version History
 ---------------
-* [v1.2](https://github.com/sparkfun/AD5330_Breakout_Arduino_Library/tree/v_1.2) - Arduino library format
-* [v1.1](https://www.sparkfun.com/products/9719) 
+* [V1.2](https://github.com/sparkfun/AD5330_Breakout_Arduino_Library/tree/V_1.2) - Arduino library format
+* [V1.1](https://www.sparkfun.com/products/9719) 
 
 License Information
 -------------------
