@@ -1,4 +1,4 @@
-AD5330 Breakout
+AD5330 Breakout Arduino Library
 ===============
 
 [![AD5330 DAC](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/2/0/8/2/12082-00.jpg) 
@@ -25,6 +25,8 @@ Documentation
 
 Version History
 ---------------
+
+* [V_1.2.2](https://github.com/sparkfun/AD5330_Breakout_Arduino_Library/tree/V_1.2.2) - Edited README.txt
 * [V_1.2.1](https://github.com/sparkfun/AD5330_Breakout_Arduino_Library/tree/V_1.2.1) - Fixed library.properties file
 * [V1.2](https://github.com/sparkfun/AD5330_Breakout_Arduino_Library/tree/V_1.2) - Arduino library format
 * [V1.1](https://www.sparkfun.com/products/9719) 
