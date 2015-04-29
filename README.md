@@ -25,6 +25,7 @@ Documentation
 
 Version History
 ---------------
+* [V_1.2.1](https://github.com/sparkfun/AD5330_Breakout_Arduino_Library/tree/V_1.2.1) - Fixed library.properties file
 * [V1.2](https://github.com/sparkfun/AD5330_Breakout_Arduino_Library/tree/V_1.2) - Arduino library format
 * [V1.1](https://www.sparkfun.com/products/9719) 
 
