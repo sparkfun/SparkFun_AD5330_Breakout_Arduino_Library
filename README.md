@@ -1,7 +1,7 @@
 AD5330 Breakout Arduino Library
 ===============
 
-[![AD5330 DAC](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/2/0/8/2/12082-00.jpg) 
+[![AD5330 DAC](https://cdn.sparkfun.com/assets/parts/8/7/1/1/12082-00.jpg) 
 *Breakout Board for AD5330 Parallel 8-Bit DAC (BOB-12082)*](https://www.sparkfun.com/products/12082)
 
 This is a breakout board for Analog Device's AD5330 8-bit digital-to-analog converter. 
